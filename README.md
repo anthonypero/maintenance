@@ -1,3 +1,3 @@
 # maintenance
 
-This is the maintenance page for Virtupsi Media hosted sites.
+This is the maintenance page for Virtuosic Media hosted sites.
